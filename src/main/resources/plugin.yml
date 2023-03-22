@@ -1,0 +1,16 @@
+name: Lobby-mini
+version: '${project.version}'
+main: de.codedex.lobbymini.main.Main
+api-version: 1.19
+load: STARTUP
+author: Codedex
+description: a Simple Lobby System
+commands:
+  setspawn:
+    permission: lobbysystem.setspawn
+    description: Setze den Spawn
+  build:
+    permission: lobbysystem.build
+    description: Setze dich oder andere in den Build Modus
+  spawn:
+    description: Teleportiere dich zum Spawn
