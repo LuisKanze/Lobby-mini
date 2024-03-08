@@ -8,7 +8,7 @@ Bei Problemen kannst du mich auf Discord adden `vxnsin`
 
 ## Coder
 
- [@Vxnsin](https://www.github.com/LuisKanze)
+ [@Vxnsin](https://www.github.com/vxnsin)
 
 
 
